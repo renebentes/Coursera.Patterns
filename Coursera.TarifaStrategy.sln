@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coursera.TarifaStrategy", "Coursera.TarifaStrategy.Console\Coursera.TarifaStrategy.csproj", "{F81AFC1D-F26C-4652-802A-1B9ECA4DF96C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coursera.TarifaStrategy.UnitTest", "Coursera.TarifaStrategy.UnitTest\Coursera.TarifaStrategy.UnitTest.csproj", "{8AE32237-6FA9-402F-BDD6-61DE3B85B901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F81AFC1D-F26C-4652-802A-1B9ECA4DF96C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81AFC1D-F26C-4652-802A-1B9ECA4DF96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81AFC1D-F26C-4652-802A-1B9ECA4DF96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81AFC1D-F26C-4652-802A-1B9ECA4DF96C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE32237-6FA9-402F-BDD6-61DE3B85B901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE32237-6FA9-402F-BDD6-61DE3B85B901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE32237-6FA9-402F-BDD6-61DE3B85B901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE32237-6FA9-402F-BDD6-61DE3B85B901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06E6FDB1-D903-4E6B-8D0E-4855F7D87BD6}
+	EndGlobalSection
+EndGlobal
