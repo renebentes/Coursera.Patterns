@@ -2,7 +2,7 @@
 {
     public class CalculoHora : ICalculo
     {
-        private int _valorHora;
+        private readonly int _valorHora;
 
         public CalculoHora(int valorHora)
         {
