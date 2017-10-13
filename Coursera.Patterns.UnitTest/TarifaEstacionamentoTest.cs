@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Coursera.TarifaStrategy.UnitTest
+namespace Coursera.Patterns.UnitTest
 {
     [TestClass]
     public class TarifaEstacionamentoTest

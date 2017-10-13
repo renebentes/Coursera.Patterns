@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Coursera.TarifaStrategy
+namespace Coursera.Patterns.Strategy
 {
     public class CalculoDiaria : ICalculo
     {

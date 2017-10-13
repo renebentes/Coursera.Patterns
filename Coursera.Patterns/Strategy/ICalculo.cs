@@ -1,4 +1,4 @@
-﻿namespace Coursera.TarifaStrategy
+﻿namespace Coursera.Patterns.Strategy
 {
     public interface ICalculo
     {
