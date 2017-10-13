@@ -1,3 +1,4 @@
+using Coursera.Patterns.Strategy;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Coursera.Patterns.UnitTest
