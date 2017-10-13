@@ -13,8 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Coursera.Patterns.NullObject\Coursera.Patterns.NullObject.csproj" />
-    <ProjectReference Include="..\Coursera.Patterns.Strategy\Coursera.Patterns.Strategy.csproj" />
+    <ProjectReference Include="..\Coursera.Patterns\Coursera.Patterns.csproj" />
   </ItemGroup>
 
 </Project>
