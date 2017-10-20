@@ -2,14 +2,14 @@ namespace Coursera.Patterns.Composite
 {
     public class TrechoAereoComConexao : TrechoAereoComEscala
     {
-        private readonly int _taxa;
+        private readonly int _tarifa;
 
-        public TrechoAereoComConexao(TrechoAereoSimples trechoInicial, TrechoAereoSimples trechoFinal, int taxa)
+        public TrechoAereoComConexao(ITrechoAereo trechoInicial, ITrechoAereo trechoFinal, int tarifa)
             : base(trechoInicial, trechoFinal)
         {
-            _taxa = taxa;
+            _tarifa = tarifa;
         }
 
-        public override int Custo => base.Custo + _taxa;
+        public override int Custo => base.Custo + _tarifa;
     }
 }
